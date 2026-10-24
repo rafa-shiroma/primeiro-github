@@ -1,2 +1,6 @@
-# primeiro-github
-Meus primeiros passos no github 2026
+# Primeiros Passos no Github - 2026
+
+Meus primeiros passos no github 2026, teste em aula.
+
+O código abaixo lista arquivos e diretórios (pasta)
+
